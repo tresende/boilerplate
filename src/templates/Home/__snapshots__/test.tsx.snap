@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> should open modal 1`] = `
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 2.4rem;
+}
+
+.c0 {
+  margin: 0 auto;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 2.4rem 0;
+}
+
+@media (max-width:768px) {
+  .c0 {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (min-width:1200px) {
+  .c0 {
+    width: 1170px;
+  }
+}
+
+@media (min-width:992px) {
+  .c0 {
+    width: 970px;
+  }
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      Hello!
+    </div>
+  </div>
+</div>
+`;
