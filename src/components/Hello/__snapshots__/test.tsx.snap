@@ -11,5 +11,7 @@ exports[`<Component /> should render component correctly 1`] = `
 
 <div
   class="c0"
-/>
+>
+  Hello!
+</div>
 `;
